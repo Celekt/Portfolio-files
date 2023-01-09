@@ -1,0 +1,13 @@
+.introduction
+{
+    color:blue;
+}
+#test_id
+{
+    color: blueviolet;
+    font-weight: bold;
+}
+a[title*="ici"]
+{
+    color:chartreuse;
+}
